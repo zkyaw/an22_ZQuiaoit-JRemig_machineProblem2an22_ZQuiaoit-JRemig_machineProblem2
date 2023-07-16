@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.4"
+  },
+  "name": "an22_zquiaoit_machineproblem2",
+  "version": "1.0.0",
+  "description": "final project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zildjian Quiaoit",
+  "license": "ISC"
+}
